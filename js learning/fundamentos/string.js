@@ -1,0 +1,1 @@
+const escola = "Cod3r";
